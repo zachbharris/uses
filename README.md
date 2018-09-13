@@ -9,3 +9,5 @@
 - [Docker](https://www.docker.com/)
 - [Hyper](https://hyper.is/)
 - [VS Code](https://code.visualstudio.com/)
+- [Figma](https://www.figma.com/downloads/)
+- [Slack](https://slack.com/downloads/)
