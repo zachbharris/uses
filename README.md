@@ -21,3 +21,9 @@ https://github.com/creationix/nvm#install--update-script
 
 ### Installing oh-my-zsh plugins
 Great [tutorial](https://bit.ly/2U8ztVd) written by Mikhail Evdokimov
+
+### zsh gotcha
+Did you `cd ~` and don't know how to get back to your user account? It's as simple as:
+```
+cd ../../mnt/c/users/USER_NAME
+```
