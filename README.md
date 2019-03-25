@@ -9,3 +9,9 @@
 - [VS Code](https://code.visualstudio.com/)
 - [Figma](https://www.figma.com/downloads/)
 - [Slack](https://slack.com/downloads/)
+
+## Setting up git credentials with WSL
+1. Make sure [git](https://git-scm.com/) is installed
+2. run `git config --global credential.helper "/mnt/c/Program\\ Files/Git/mingw64/libexec/git-core/git-credential-manager.exe"`
+3. invoke a git function, e.g. `git add .`
+4. The credential helper should popup asking for your git information
