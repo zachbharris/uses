@@ -16,5 +16,8 @@
 3. invoke a git function, e.g. `git add .`
 4. The credential helper should popup asking for your git information
 
+### Installing NVM
+https://github.com/creationix/nvm#install--update-script
+
 ### Installing oh-my-zsh plugins
 Great [tutorial](https://bit.ly/2U8ztVd) written by Mikhail Evdokimov
